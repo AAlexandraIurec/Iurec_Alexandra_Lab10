@@ -27,7 +27,6 @@ namespace Iurec_Alexandra_Lab10
             InitializeComponent();
             MainPage = new NavigationPage(new ListEntryPage());
 
-            MainPage = new MainPage();
         }
 
         protected override void OnStart()
